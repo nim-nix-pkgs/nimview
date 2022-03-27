@@ -11,6 +11,7 @@
   inputs.src-nimview-0_2_0.ref   = "refs/tags/0.2.0";
   inputs.src-nimview-0_2_0.owner = "marcomq";
   inputs.src-nimview-0_2_0.repo  = "nimview";
+  inputs.src-nimview-0_2_0.dir   = "";
   inputs.src-nimview-0_2_0.type  = "github";
   
   inputs."nimpy".owner = "nim-nix-pkgs";
